@@ -1,0 +1,32 @@
+#header_menu{
+    height: 115px;
+    padding-left: 20px;
+    background-color:#2F2F2F;
+}
+
+#filtros_m{
+    padding-top: 30px;
+}
+
+.spanFiltro{
+    padding: 10px;
+    color:white
+}
+
+.selectFiltro{
+    width: 10%;
+    height: 10%;
+    border: '1px solid #ced4da',
+}
+.div_titlo{
+    padding: 51px;
+}
+
+.titulo{
+    font-size: 25px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}

@@ -1,0 +1,23 @@
+.home_2{
+    padding-left: 55px;
+}
+
+.home_2 h2{
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.listado {
+  display: grid;
+  position: relative;
+  left: 50px;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 3px;
+  grid-auto-rows: minMax(100px, auto);
+  }
+  .container:after {
+    display: block;
+    content: " placeholder ";
+    margin: 3px;
+    flex: 999 999 auto;
+  }

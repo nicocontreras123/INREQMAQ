@@ -1,0 +1,15 @@
+.btn_item{
+    border: none;
+    outline:none;
+}
+.ver_maquina {
+    text-align: center;
+    position: relative;
+    left: 50px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 3px;
+    grid-auto-rows: minMax(100px, auto);
+    }
+.btnMaquina{
+    padding: 5px;
+}
